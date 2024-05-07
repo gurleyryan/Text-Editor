@@ -27,11 +27,27 @@ Built a text editor that runs in the browser. The app is a single-page applicati
 
 ## Installation
 
-N/A
+You must first clone this repo. Once the repo is downloaded, open it in VS Code. <br />
+Install the dependencies using the terminal command:
+```console
+npm i
+```
+Run the build and server using the terminal command:
+```console
+npm run start
+```
+Run the server and client using the terminal command:
+```console
+npm run start:dev
+```
 
 ## Usage
 
-[Link to the deployed application]() <br />
+[Link to the deployed application](https://text-editor-ukq4.onrender.com) <br />
+![Screenshot 2024-05-06 at 20-29-24 J A T E](https://github.com/gurleyryan/Text-Editor/assets/48134032/b810f33a-aa52-457b-8375-6504487ccd46) <br />
+Type and edit plain text. Your changes will be tracked in the browser and will persist after page refresh. <br />
+
+Will function offline. Click the "Install" button to download the application as an icon on your desktop.
 
 ## Contributing
 
@@ -41,8 +57,7 @@ Contributors: <br />
 
 ## Credits
 
-External Sources: <br />
-- []() <br />
+N/A
 
 ## Tests
 
